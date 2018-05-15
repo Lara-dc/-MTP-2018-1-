@@ -4,7 +4,7 @@
 
 int main ()
 {
-	int estado = 0, i=0;
+	int estado = 0,i=0;
 	char bits[256];
 	scanf("%s" , &bits[i]);
 	while (bits[i]!= '\0')
