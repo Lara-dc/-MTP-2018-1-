@@ -1,3 +1,5 @@
+//Lara Dias Cabral 11721EAU009
+
 #include <stdio.h>
 
 int main()
@@ -11,11 +13,11 @@ int main()
 	while(bits[i])
 	{
 		
-		if(bits[i] >= 48 && bits[i] <= 57) // verifica se o caractere atual é um algarismo
+		if(bits[i] >= 48 && bits[i] <= 57) // verifica se o caractere atual Ã© um algarismo
 		{
 			bits[i] = bits[i] - '0'; //converte char para int 
 			
-			cumulativa = cumulativa * 10 + bits[i]; //compõe o numero usando cada algarismo
+			cumulativa = cumulativa * 10 + bits[i]; //compÃµe o numero usando cada algarismo
 			
 		}
 		
