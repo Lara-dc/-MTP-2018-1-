@@ -1,5 +1,6 @@
+//Lara Dias Cabral 11721EAU009
+
 #include <stdio.h>
-#include <math.h>
 
 int main()
 {
