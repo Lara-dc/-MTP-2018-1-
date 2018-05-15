@@ -1,3 +1,5 @@
+//Lara Dias Cabral 11721EAU009
+
 #include <stdio.h>
 
 int main ()
@@ -40,7 +42,7 @@ int main ()
 	if (estado == 0){
 		printf("\nEh multiplo de 3. ");
 	}	
-	if(estado =0){
+	if(estado !=0){
 		printf("\nNao eh multiplo de 3. ");
 	}
 	printf("\nA sequencia original eh %s" , bits);
