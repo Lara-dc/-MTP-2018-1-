@@ -48,7 +48,6 @@ int main()
 		{
 
 			case 1:
-
 				printf("\n%f\n", soma(v, v + max)); 
 				break;
 				
