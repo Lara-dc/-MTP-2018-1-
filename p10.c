@@ -1,4 +1,4 @@
-//Lara Dias Cabral 11721EAU009
+//Lara Dias Cabral  11721EAU009
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -141,7 +141,7 @@ void salvarArq(Produto *p, int cont)
 		printf("Produtos armazenados em disco com sucesso!\n\n");
 		fclose(arq);
 	}else
-		printf("Erro: n„o foi possÌvel abrir o arquivo\n\n");
+		printf("Erro: n√£o foi poss√≠vel abrir o arquivo\n\n");
 }
 
 int main()
